@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshpandiya
-- 👀 I’m interested in data science topics
-- 🌱 I’m currently working of different data science projects 
+- 👀 I’m interested in data science, maths, programmig, I am currently working of different data science projects... 
+- 🌱 I’m addicted to learning and growing every day..
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me at yogeshpandiya4@gmail.com
 
